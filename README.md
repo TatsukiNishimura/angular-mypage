@@ -1,4 +1,18 @@
 # AngularMypage
+参考: https://codelab.website/angular-github-pages/
+
+## ビルド
+```
+ng build --prod --base-href "https://tatsukinishimura.github.io/angular-mypage/"
+```
+
+### プッシュ
+```
+npx ngh --dir=dist/angular-mypage
+```
+
+---
+The page below has been automatically generated.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
