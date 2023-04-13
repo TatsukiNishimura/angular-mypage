@@ -3,5 +3,16 @@
   "top-page-greet": "Welcome to Tatsuki Nishimura's page!",
   "top-page-description": "This homepage introduces myself and my research.",
   "information": "Information",
-  "top-page-news-2023-04-13-content": "Opened this website."
+  "top-page-news-2023-04-13-content": "Opened this website.",
+  "introduction": "introduction",
+  "name": "name",
+  "affiliation": "affiliation",
+  "graded": "graded",
+  "original": "original",
+  "highschool": "highschool",
+  "TatsukiNishimura": "TatsukiNishimura",
+  "affiliation-content": "Harada Laboratory, Department of Systems Science, School of Engineering Science, Osaka University",
+  "graded-content": "B4",
+  "original-content": "Toyama",
+  "highschool-content": "Toyama chubu high school"
 }
