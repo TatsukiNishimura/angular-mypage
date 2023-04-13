@@ -1,1 +1,13 @@
-{ "top-page-greet": "西村樹希のホームページへようこそ" }
+{
+  "top-page-title-description": "大阪大学基礎工学部システム科学科原田研究室所属 西村樹希のウェブサイトです。",
+  "top-page-greet": "西村樹希のホームページへようこそ",
+  "top-page-description": "このホームページでは自己紹介や研究内容について掲載しています。",
+  "information": "お知らせ",
+  "top-page-news-2023-04-13-content": "ホームページ開設しました。",
+  "introduction": "自己紹介",
+  "name": "名前",
+  "affiliation": "所属",
+  "graded": "学年",
+  "original": "出身",
+  "highschool": "高校"
+}

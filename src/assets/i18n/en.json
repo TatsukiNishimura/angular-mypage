@@ -1,1 +1,7 @@
-{ "top-page-greet": "Welcome to Tatsuki Nishimura's page!" }
+{
+  "top-page-title-description": "This is the website of Tatsuki Nishimura, a member of Harada Laboratory,School of Engineering Science, Osaka University.",
+  "top-page-greet": "Welcome to Tatsuki Nishimura's page!",
+  "top-page-description": "This homepage introduces myself and my research.",
+  "information": "Information",
+  "top-page-news-2023-04-13-content": "Opened this website."
+}
