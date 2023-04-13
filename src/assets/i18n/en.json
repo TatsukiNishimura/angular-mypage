@@ -14,5 +14,22 @@
   "affiliation-content": "Harada Laboratory, Department of Systems Science, School of Engineering Science, Osaka University",
   "graded-content": "B4",
   "original-content": "Toyama",
-  "highschool-content": "Toyama chubu high school"
+  "highschool-content": "Toyama chubu high school",
+  "profile-birthday": "birth",
+  "career": "career",
+  "graduate-highschool": "Graduated from Toyama Chubu High School, Toyama, Japan",
+  "enter-university": "Entered Department of Systems Science, Faculty of Engineering Science, Osaka University",
+  "assign-lab": "Assign to Harada Lab.",
+  "hobby-and-skill": "hobby and skill",
+  "club": "club",
+  "robohan": "Robohan",
+  "link": "link",
+  "club-comment": "Comments : I was active as a programming leader and worked toward NHK robocon 2022.",
+  "ouxt-comment": "Comment : Aiming to enter a competition for autonomous driving of boats.",
+  "part-time-jobs": "part-time jobs",
+  "part-time-jobs-content": "Web system development at Osaka Univ.Co-op, Robot venture company, and robotics education",
+  "part-time-jobs-comment": "Comment : Engaged in programming and robotics part-time.",
+  "skill": "skill",
+  "hobby": "hobby",
+  "hobby-content": "cooking, travel, creating, watching sports, listening to music etc..."
 }
