@@ -1,13 +1,25 @@
 <div class="home">
     <footer>
         <div class="copy">
-            <small style="color:white;">This website is built with Angular.</small>
-            <br>
-            <small style="color:white;">Copyright&copy;
-                <a routerLink="">Tatsuki Nishimura's page</a> All Rights
-                Reserved.</small>
-            <span class="pr"><a href="https://template-party.com/" target="_blank">《Web
-                    Design:Template-Party》</a></span>
+            <div fxLayout="row">
+                <div fxFlex="100" fxFlexFill>
+                    <small style="color:white;">This
+                        website is built with Angular.</small>
+                    <br>
+                    <small style="color:white;">Copyright&copy;
+                        <a routerLink="">Tatsuki Nishimura's page</a> All Rights
+                        Reserved.</small>
+                    <span class="pr"><a href="https://template-party.com/" target="_blank">《Web
+                            Design:Template-Party》</a></span>
+                </div>
+                <div fxFlex="0" fxFlexFill>
+                    <button (click)="gotoTop()">
+                        <fa-icon [icon]="faArrawUp"></fa-icon>
+                    </button>
+                </div>
+
+            </div>
+
         </div>
     </footer>
 </div>
