@@ -50,6 +50,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { FooterComponent } from './footer/footer.component';
 import { ProfileComponent } from './profile/profile.component';
 import { ResearchComponent } from './research/research.component';
+import { ContactComponent } from './contact/contact.component';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, 'assets/i18n/', '.json');
 }
@@ -61,6 +62,7 @@ export function HttpLoaderFactory(http: HttpClient) {
     ProfileComponent,
     FooterComponent,
     ResearchComponent,
+    ContactComponent,
   ],
   imports: [
     BrowserModule,

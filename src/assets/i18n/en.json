@@ -38,5 +38,10 @@
   "mail-research": "for research",
   "mail-general": "for general",
   "harada-lab": "Harada Lab.",
-  "osaka-univ-engineering-science-system-science": "Department of Systems Science, School of Engineering Science, Osaka University"
+  "osaka-univ-engineering-science-system-science": "Department of Systems Science, School of Engineering Science, Osaka University",
+  "profile": "profile",
+  "research-2021": "Program to encourage independent research by undergraduate students",
+  "research-2021-content": "Development of automated driving systems for general use",
+  "research-2021-researcher": "Atsushi Ohta, Genki Nagata, Tatsuki Nishimura",
+  "research-2021-advisor": "Advisor : Wei Wei Wan"
 }

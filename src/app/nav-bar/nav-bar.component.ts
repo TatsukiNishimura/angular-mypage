@@ -37,4 +37,8 @@ export class NavBarComponent implements OnInit {
   gotoResearch() {
     this.router.navigate(["research"]);
   }
+
+  gotoContact() {
+    this.router.navigate(["contact"]);
+  }
 }

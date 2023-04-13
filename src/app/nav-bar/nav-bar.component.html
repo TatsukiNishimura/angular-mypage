@@ -3,8 +3,15 @@
         <a mat-flat-button color="primary" (click)="gotoTop()">
             <h1>{{ title }}</h1>
         </a>
-        <button mat-flat-button color="primary" (click)="goToProfile()">profile</button>
-        <button mat-flat-button color="primary" (click)="gotoResearch()">research</button>
+        <button mat-flat-button color="primary" (click)="goToProfile()">
+            <div translate>profile</div>
+        </button>
+        <button mat-flat-button color="primary" (click)="gotoResearch()" translate>
+            <div translate>research</div>
+        </button>
+        <button mat-flat-button color="primary" (click)="gotoContact()" translate>
+            <div translate>contact</div>
+        </button>
         <span class="example-spacer"></span>
         <button class="example-icon" mat-flat-button color="primary" (click)="changeLang('ja')">日本語</button>
         <button class="example-icon" mat-flat-button color="primary" (click)="changeLang('en')">EN</button>
