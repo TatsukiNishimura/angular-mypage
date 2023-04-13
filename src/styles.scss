@@ -16,3 +16,6 @@ $custom-theme: mat.define-light-theme((color: (primary: $custom-primary,
     ));
 
 @include mat.all-component-themes($custom-theme);
+
+
+@import "./app/css/style.css";

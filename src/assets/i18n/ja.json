@@ -31,5 +31,12 @@
   "part-time-jobs-comment": "一言 : プログラミングやロボット系のアルバイトに従事。",
   "skill": "スキル",
   "hobby": "趣味",
-  "hobby-content": "料理、旅行、ものづくり、スポーツ観戦、音楽鑑賞など"
+  "hobby-content": "料理、旅行、ものづくり、スポーツ観戦、音楽鑑賞など",
+  "research": "研究",
+  "contact": "連絡先",
+  "under-construction": "準備中です。",
+  "mail-research": "研究に関する連絡はこちら",
+  "mail-general": "その他の連絡はこちら",
+  "harada-lab": "原田研究室",
+  "osaka-univ-engineering-science-system-science": "大阪大学基礎工学部システム科学科"
 }

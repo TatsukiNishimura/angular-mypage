@@ -49,6 +49,7 @@ import { TranslateLoader, TranslateModule } from '@ngx-translate/core'; //追加
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { FooterComponent } from './footer/footer.component';
 import { ProfileComponent } from './profile/profile.component';
+import { ResearchComponent } from './research/research.component';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http);
 }
@@ -59,6 +60,7 @@ export function HttpLoaderFactory(http: HttpClient) {
     NavBarComponent,
     ProfileComponent,
     FooterComponent,
+    ResearchComponent,
   ],
   imports: [
     BrowserModule,
