@@ -41,4 +41,8 @@ export class NavBarComponent implements OnInit {
   gotoContact() {
     this.router.navigate(["contact"]);
   }
+
+  gotoAcheivement() {
+    this.router.navigate(["achievement"]);
+  }
 }

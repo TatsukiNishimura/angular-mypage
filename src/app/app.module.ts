@@ -51,6 +51,7 @@ import { FooterComponent } from './footer/footer.component';
 import { ProfileComponent } from './profile/profile.component';
 import { ResearchComponent } from './research/research.component';
 import { ContactComponent } from './contact/contact.component';
+import { AchievementComponent } from './achievement/achievement.component';
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, 'assets/i18n/', '.json');
 }
@@ -63,6 +64,7 @@ export function HttpLoaderFactory(http: HttpClient) {
     FooterComponent,
     ResearchComponent,
     ContactComponent,
+    AchievementComponent,
   ],
   imports: [
     BrowserModule,
