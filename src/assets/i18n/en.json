@@ -12,7 +12,7 @@
   "highschool": "highschool",
   "TatsukiNishimura": "TatsukiNishimura",
   "affiliation-content": "Harada Laboratory, graduate school of engineering science, Osaka University",
-  "graded-content": "M1",
+  "graded-content": "M2",
   "original-content": "Toyama",
   "highschool-content": "Toyama chubu high school",
   "profile-birthday": "birth",
@@ -22,7 +22,7 @@
   "graduate-bachelor": "Graduated from Department of Systems Science, Faculty of Engineering Science, Osaka University",
   "enter-graduate": "Entered Graduate School of Engineering Science, Osaka University",
   "assign-lab": "Join Harada Lab.",
-  "humanware":"Osaka University Humanware Innovation Program 12th",
+  "humanware": "Osaka University Humanware Innovation Program 12th",
   "hobby-and-skill": "hobby and skill",
   "club": "club",
   "robohan": "Robohan",
@@ -55,5 +55,8 @@
   "research-2023-author": "Tatsuki Nishimura",
   "robomech-2024": "<Robomech 2024 @ Utsunomita>",
   "robomech-2024-author": "Tatsuki Nishimura, WeiWei Wan, Kensuke Harada",
+  "robomech-2025": "<Robomech 2025 @ Yamagata>",
+  "research-2025-content": "Push Manipulation For Densely Cluttered Large Objects with a Mobile Robot",
+  "robomech-2025-author": "Tatsuki Nishimura, WeiWei Wan, Takuya Kiyokawa, Kensuke Harada",
   "acheivement": "acheivement"
 }
